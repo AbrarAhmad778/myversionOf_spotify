@@ -215,6 +215,8 @@ font-weight:400px;
   display:flex;
   justify-content:space-between;
   align-items:center;
+    height:1rem;
+    width:1rem;
 }
 .controlls{
     width:25%;
@@ -240,7 +242,4 @@ font-weight:400px;
     padding-left:10%;
    
 }
-.weeknd{
-    display:flex;
-    justify-content: space-between;
-}
+
