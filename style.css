@@ -210,6 +210,7 @@ font-weight:400px;
 }
 .player{
     width:50%;
+    margin-left:25%;
 }
 .player{
   display:flex;
@@ -223,8 +224,8 @@ font-weight:400px;
 }
 .musicplay{
     opacity:0.7;
-    height:0.5rem;
-    width:0.5rem;
+    height:0.2rem;
+    width:0.2rem;
 }
 .musicplay:hover{
     opacity:1;
